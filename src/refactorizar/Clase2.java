@@ -10,5 +10,8 @@ package refactorizar;
  * @author dam
  */
 public class Clase2 {
+    float num;
+    float num2;
+            
     
 }
